@@ -1,0 +1,6 @@
+{
+  "name": "Kids English Lab",
+  "description": "Interactive English & Turkish learning game for kids featuring 100 word puzzles, multi-stage drawing coloring studio, dual speech pronunciation, synthesizers and collectible sticker book.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
